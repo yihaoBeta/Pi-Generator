@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PIComputor</string>
+    <string name="app_name_zhCN">圆周率生成器</string>
+    <string name="start_compute">开始计算</string>
+    <string name="complete_compute">计算结束</string>
+    <string name="error_compute">计算出现错误</string>
+    <string name="fast">速度调节: 快</string>
+    <string name="slow">慢</string>
+    <string name="input_count">请输入生成位数</string>
+    <string name="stop">停止</string>
+    <string name="start">开始</string>
+    <string name="on">开</string>
+    <string name="off">关</string>
+    <string name="mode_infinite">无限模式</string>
+    <string name="cur_count">当前位数:</string>
+    <string name="tips_count_warning">输入的位数必须大于0</string>
+    <string name="tips_no_input">请输入具体的位数或者选择无限模式</string>
+    <string name="tips_input_is_outof_int_range">输入的位数过大，请使用无限模式计算</string>
+    <string name="tips_error_input">输入有误，请重新输入</string>
+</resources>

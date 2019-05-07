@@ -1,4 +1,4 @@
-# Android-Generator (Android-圆周率生成器)
+# Android-pi-Generator (Android-圆周率生成器)
 > `kotlin`语言开发的`Android`端圆周率生成器，可以指定生成的位数，也可以采用无限模式生成，采用的GMP库和`Jeremy Gibbons`的`Spigot`算法，生成算法部分使用的`NDK`
 (`C++ 11` 和 `jni1.6`)， UI逻辑采用的`Kotlin`实现
 
